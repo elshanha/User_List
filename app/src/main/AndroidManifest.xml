@@ -24,7 +24,7 @@
         </activity>
 
         <activity
-            android:name=".productlist.UserActivity"
+            android:name=".Userlist.UserActivity"
             android:exported="true">
         </activity>
 

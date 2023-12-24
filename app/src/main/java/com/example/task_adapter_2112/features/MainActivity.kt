@@ -11,7 +11,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.task_adapter_2112.adapters.UserListAdapter
 import com.example.task_adapter_2112.databinding.ActivityMainBinding
 import com.example.task_adapter_2112.model.User
-import com.example.task_adapter_2112.productlist.UserActivity
+import com.example.task_adapter_2112.Userlist.UserActivity
 
 class MainActivity : AppCompatActivity() {
 
