@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task_Adapter_21.12</string>
+    <string name="user_add_page">User Add Page</string>
+    <string name="user_elave">Add User</string>
+    <string name="back_home">Back to Home Page</string>
+    <string name="head_text_info">Please fill out the required fields!</string>
+</resources>
