@@ -1,4 +1,4 @@
-package com.example.task_adapter_2112.Userlist
+package com.example.task_adapter_2112.productlist
 
 import android.content.Intent
 import android.os.Bundle

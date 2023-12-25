@@ -1,4 +1,4 @@
-package com.example.task_adapter_2112.Userlist
+package com.example.task_adapter_2112.productlist
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
